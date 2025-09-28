@@ -1,4 +1,4 @@
-**Text to Image: VQGAN Transformer & CLIP**
+**Text to Image Generation: VQGAN Transformer & CLIP**
 
 # Library
 
@@ -16,7 +16,7 @@ python=3.10
 
 Detail explaination, following:
 
-VQGAN Transformer & CLIP [Link1](https://youtu.be/Ax_HofBWJN0) and [Link2](https://youtu.be/LMnq0jh7D2M)
+VQGAN Transformer & CLIP [Explain](https://youtu.be/Ax_HofBWJN0) and [Code](https://youtu.be/LMnq0jh7D2M)
 
 Transformer [Link](https://youtu.be/oPe5Tl3CWTI)
 
