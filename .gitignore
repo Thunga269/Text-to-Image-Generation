@@ -4,4 +4,4 @@ __pycache__/
 *.so
 
 CLIP/
-taming-transform/
+taming-transformers/
