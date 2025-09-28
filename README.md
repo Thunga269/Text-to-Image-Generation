@@ -1,18 +1,18 @@
-**Text to Image Generation: VQGAN Transformer & CLIP**
+# **Text to Image Generation: VQGAN Transformer & CLIP**
 
-# Library
+### Library
 
 python=3.10
 
 !pip install -r requirements.txt
 
-# Run
+### Run
 
-*Vector Quantization*: Quantization.ipynb
+Vector Quantization: Quantization.ipynb
 
-*VQGAN Transformer & CLIP*: Text_to_Image.ipynb
+VQGAN Transformer & CLIP: Text_to_Image.ipynb
 
-# Explanation
+### Explanation
 
 Detail explaination, following:
 
@@ -21,7 +21,7 @@ VQGAN Transformer & CLIP [Explain](https://youtu.be/Ax_HofBWJN0) and [Code](http
 Transformer [Link](https://youtu.be/oPe5Tl3CWTI)
 
 
-# Paper
+### Paper
 
 [VQGAN Transformer paper](https://arxiv.org/abs/2012.09841)
 
